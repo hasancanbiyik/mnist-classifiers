@@ -3,7 +3,7 @@
 This project applies various classification models to the MNIST dataset to recognize handwritten digits.
 
 ## Classifiers Implemented
-- Naive Bayes
+- Naive Bayes (Gaussian & Multinomial NB)
 - K-Nearest Neighbors (KNN)
 - Decision Trees
 - Support Vector Machine (SVM)
