@@ -5,6 +5,8 @@ This project applies various classification models to the MNIST dataset to recog
 ## Classifiers Implemented
 - Naive Bayes
 - K-Nearest Neighbors (KNN)
+- Decision Trees
+- Support Vector Machine (SVM)
 - Ensemble Models (e.g., Random Forest, Voting Classifier)
 
 ## Dataset
