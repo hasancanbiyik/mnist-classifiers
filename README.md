@@ -4,10 +4,10 @@ This project applies various classification models to the MNIST dataset to recog
 
 ## Classifiers Implemented
 - Naive Bayes (Gaussian & Multinomial NB)
-- K-Nearest Neighbors (KNN)
-- Decision Trees
+- K-Nearest Neighbors (KNN, k=2, 3, 4, 5)
+- Decision Tree
 - Support Vector Machine (SVM)
-- Ensemble Models
+- Ensemble Models (Bagging, Random Forest, AdaBoost, XGBoost)
 
 ## Dataset
 - [MNIST dataset](http://yann.lecun.com/exdb/mnist/) via `tensorflow.keras.datasets`
